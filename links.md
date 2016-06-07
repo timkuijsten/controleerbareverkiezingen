@@ -1,33 +1,35 @@
 # Links
 
-## Technisch
+## Stemcomputers
+* [The Problem with Electronic Voting Machines](https://www.schneier.com/blog/archives/2004/11/the_problem_wit.html)
+* [Why e-voting is on the decline in the United States](http://www.wired.co.uk/news/archive/2012-10/23/e-voting-on-the-decline)
+* [India's EVMs are Vulnerable to Fraud](https://indiaevm.org/qa.html)
+* [Serious flaws discovered in Brazil’s voting machines](http://programacaobr.com/elections2014/)
+* [Security Analysis Of The Estonian Internet Voting System \[pdf\]](http://controleerbareverkiezingen.nl/pub/PSJ2014_Hursti-MacAlpine_Estonia-PacSec.pdf)
+* [Security Analysis of Estonia's Internet Voting System [31c3] by J. Alex Halderman \[video\]](https://www.youtube.com/watch?v=JY_pHvhE4os#t=58m55s) (secure e-Voting)
+* [Computer Scientists Take Over Electronic Voting Machine With New Programming Technique](https://www.sciencedaily.com/releases/2009/08/090810161902.htm)
+* [On Voting, Banking, and Bad Analogies](http://benlog.com/2007/03/02/on-voting-banking-and-bad-analogies/)
+* [Every Vote Counts: Ensuring Integrity in Large-Scale Electronic Voting](https://blogs.ncl.ac.uk/security/2014/08/30/every-vote-counts-ensuring-integrity-in-large-scale-electronic-voting/)
+* [Usability of Voter Verifiable, End-to-end Voting Systems: Baseline Data for Helios, Prêt à Voter, and Scantegrity II](https://www.usenix.org/system/files/conference/evtwote14/jets_0203-acemyan.pdf)
+* [The USENIX Journal of Election Technology and Systems (JETS)](https://www.usenix.org/jets)
+
+## Hacking
 * [The Underhanded C Contest](http://www.underhanded-c.org)
 * [Reflections on Trusting Trust](https://www.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf)
 * [reproducible builds are a waste of time: comment #16](https://lobste.rs/s/5bbdbo/reproducible_builds_are_a_waste_of_time/comments/fpc69f#c_fpc69f)
 * [This World of Ours](https://www.usenix.org/system/files/1401_08-12_mickens.pdf)
-* [The Problem with Electronic Voting Machines](https://www.schneier.com/blog/archives/2004/11/the_problem_wit.html)
-* [Why e-voting is on the decline in the United States](http://www.wired.co.uk/news/archive/2012-10/23/e-voting-on-the-decline)
 * [Alex Halderman, and India’s assault on academic freedom](http://www.scottaaronson.com/blog/?p=507)
-* [India's EVMs are Vulnerable to Fraud](https://indiaevm.org/qa.html)
 * [KPN: mogelijke spionage niet te achterhalen](http://www.automatiseringgids.nl/nieuws/2015/26/kpn-mogelijke-spionage-niet-te-achterhalen)
 * [Hacking Team Uses UEFI BiOS Rootkit to Keep RCS 9 Agent in Target Systems: comment](https://news.ycombinator.com/item?id=9883927)
-* [Serious flaws discovered in Brazil’s voting machines](http://programacaobr.com/elections2014/)
-* [Security Analysis Of The Estonian Internet Voting System](http://controleerbareverkiezingen.nl/pub/PSJ2014_Hursti-MacAlpine_Estonia-PacSec.pdf)
 * [Beveiligingsexperts zweren bij 20-jaar oude e-mailclient Mutt](https://www.security.nl/posting/442509/Beveiligingsexperts+zweren+bij+20-jaar+oude+e-mailclient+Mutt)
 * [Boring crypto: comment](https://news.ycombinator.com/item?id=10345965) (the way standards bodies mangle cryptography)
 * [Google straft Symantec wegens geknoei met SSL-certificaten](https://www.security.nl/posting/449164/Google+straft+Symantec+wegens+geknoei+met+SSL-certificaten)
-* [Computer Scientists Take Over Electronic Voting Machine With New Programming Technique](https://www.sciencedaily.com/releases/2009/08/090810161902.htm)
 * [A2: Analog Malicious Hardware](http://www.impedimenttoprogress.com/storage/publications/A2_SP_2016.pdf https://news.ycombinator.com/item?id=11768980)
 * [AIVD: terroristen hebben te weinig capaciteiten om te hacken](http://tweakers.net/nieuws/105765/aivd-terroristen-hebben-te-weinig-capaciteiten-om-te-hacken.html) (staten spionage grootste dreiging)
 * [Weer kritieke beveiligingsupdate voor WordPress](https://www.security.nl/posting/427596/Weer+kritieke+beveiligingsupdate+voor+WordPress)
 * [140.000 webwinkels kwetsbaar door Magento-lek](https://www.security.nl/posting/425438/140_000+webwinkels+kwetsbaar+door+Magento-lek)
-* [Stuxnet](https://nl.wikipedia.org/wiki/Stuxnet)
+* [Stuxnet](https://nl.wikipedia.org/wiki/Stuxnet) (overnemen air gapped machines)
 * [Banken verzwijgen verliezen door cybercrime](http://www.automatiseringgids.nl/nieuws/2015/16/banken-verzwijgen-verliezen-door-cyber-crime)
-* [On Voting, Banking, and Bad Analogies](http://benlog.com/2007/03/02/on-voting-banking-and-bad-analogies/)
-* [Every Vote Counts: Ensuring Integrity in Large-Scale Electronic Voting](https://blogs.ncl.ac.uk/security/2014/08/30/every-vote-counts-ensuring-integrity-in-large-scale-electronic-voting/)
-* [Usability of Voter Verifiable, End-to-end Voting Systems: Baseline Data for Helios, Prêt à Voter, and Scantegrity II](https://www.usenix.org/system/files/conference/evtwote14/jets_0203-acemyan.pdf)
-* [Security Analysis of Estonia's Internet Voting System [31c3] by J. Alex Halderman ](https://www.youtube.com/watch?v=JY_pHvhE4os#t=58m55s) (secure e-Voting)
-* [The USENIX Journal of Election Technology and Systems (JETS)](https://www.usenix.org/jets)
 
 ### Hardware
 * [Bug in OSX maakt Macs kwetsbaar voor BIOS reflash](http://www.automatiseringgids.nl/nieuws/2015/23/bug-in-osx-maakt-macs-kwetsbaar-voor-bios-reflash)
