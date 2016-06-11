@@ -32,6 +32,7 @@
 * [Banken verzwijgen verliezen door cybercrime](http://www.automatiseringgids.nl/nieuws/2015/16/banken-verzwijgen-verliezen-door-cyber-crime)
 
 ### Hardware
+* [Stealthy Dopant-Level Hardware Trojans](http://sharps.org/wp-content/uploads/BECKER-CHES.pdf)
 * [Bug in OSX maakt Macs kwetsbaar voor BIOS reflash](http://www.automatiseringgids.nl/nieuws/2015/23/bug-in-osx-maakt-macs-kwetsbaar-voor-bios-reflash)
 * [Decertifying the worst voting machine in the US](https://freedom-to-tinker.com/blog/jeremyepstein/decertifying-the-worst-voting-machine-in-the-us/)
 * [Decertifying the worst voting machine in the US: comment](https://news.ycombinator.com/item?id=10076919)
